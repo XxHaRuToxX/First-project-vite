@@ -1,0 +1,8 @@
+src
+*.sh
+*.yml
+*.yaml
+*.log
+node_modules
+tsconfig.json
+*.tar.gz
